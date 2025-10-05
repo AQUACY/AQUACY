@@ -1,5 +1,5 @@
 import { motion } from 'framer-motion'
-import { Brain, MessageSquare, Briefcase, Truck, ExternalLink } from 'lucide-react'
+import { Brain, MessageSquare, Briefcase, Truck } from 'lucide-react'
 
 const Projects = () => {
   const projects = [

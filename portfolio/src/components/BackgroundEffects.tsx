@@ -4,7 +4,7 @@ interface BackgroundEffectsProps {
   mousePosition: { x: number; y: number }
 }
 
-const BackgroundEffects = ({ mousePosition }: BackgroundEffectsProps) => {
+const BackgroundEffects = ({}: BackgroundEffectsProps) => {
   return (
     <div className="fixed inset-0 z-0 overflow-hidden">
       {/* Wavy Background Lines */}
