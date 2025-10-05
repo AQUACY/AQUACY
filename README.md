@@ -111,10 +111,8 @@ I believe in writing clean, well-documented, and maintainable code — and in us
 ---
 
 ## 🌍 Connect With Me
-- 💼 [LinkedIn](https://www.linkedin.com/) *(Add your real link)*  
-- 💬 [Twitter / X](https://twitter.com/) *(Add your real link)*  
-- 🌐 [Portfolio / Website](https://yourdomain.com)  
-- ✉️ godwinboadi@example.com *(Replace with your professional email)*  
+- 💼 [LinkedIn](https://www.linkedin.com/in/godwin-boadi-2b2128114/) 
+- 🌐 [Portfolio / Website](https://aquacy.github.io)     
 
 ---
 
