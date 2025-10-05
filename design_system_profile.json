@@ -1,0 +1,68 @@
+{
+  "design_system_profile": {
+    "overall_aesthetic": "Modern, futuristic, tech-inspired, data-driven, and highly structured, reminiscent of a UI/UX dashboard or a detailed product specification sheet. It combines a minimalist approach with rich informational overlays.",
+    "color_palette": {
+      "primary_colors": ["#F5F5F5", "#E0E0E0", "#CCCCCC", "#888888", "#333333", "#1A1A1A"],
+      "accent_colors": ["#00FF00", "#FFFFFF"],
+      "description": "Predominantly grayscale, ranging from very light grey/white backgrounds to dark grey/black panels. A vibrant neon green serves as the primary accent color for highlights, progress indicators, and connecting lines. Pure white is used for text, glows, and reflective elements."
+    },
+    "typography": {
+      "font_family_style": "Clean, modern sans-serif, with a slightly geometric feel.",
+      "weights_and_sizes": "Varied weights (light, regular, bold) and sizes are used to establish a clear visual hierarchy. Large, bold text is used for primary branding and titles, while smaller, lighter text is used for detailed descriptions, labels, and metadata.",
+      "text_alignment": "Predominantly left-aligned within panels, with some centered elements for emphasis or numerical data."
+    },
+    "layout_structure": {
+      "composition_style": "Asymmetrical and dynamic, featuring a central subject (e.g., a product or model) framed and surrounded by numerous informational panels and data widgets. The layout is layered, creating a sense of depth.",
+      "background_elements": "A subtle, abstract background with soft, wavy lines or light gradients, providing a clean yet dynamic base without distracting from the foreground elements.",
+      "information_panels_arrangement": "Panels are strategically placed around the central subject, often overlapping or connected by thin, glowing lines. They vary in shape (rectangles, trapezoids, irregular polygons with sharp angles) and size, creating a modular, data-rich interface.",
+      "hierarchy_principles": "Visual hierarchy is clearly established through the size, contrast, color, and strategic placement of elements. Key information is made prominent through larger text, accent colors, or distinct panel designs.",
+      "connecting_elements": "Thin, glowing lines (often neon green or white) are used extensively to visually link related data points, panels, or sections, suggesting data flow, system connections, or interactive pathways."
+    },
+    "component_types": [
+      {
+        "name": "Header/Branding Area",
+        "characteristics": "Prominently positioned in the top-left, featuring large, bold, sans-serif text for primary branding, often accompanied by a stylized icon or logo."
+      },
+      {
+        "name": "Special Feature Callout",
+        "characteristics": "Located in the top-right, often an oval or stylized checkmark shape with a glowing outline, containing text like 'SPECIAL EDITION' or a key attribute."
+      },
+      {
+        "name": "Product Title/Description Panel",
+        "characteristics": "A dark-themed panel (dark grey/black background with light text), often an irregular polygon with sharp angles. Contains the product name, key features, and a detailed descriptive paragraph."
+      },
+      {
+        "name": "Data Widgets/Cards",
+        "characteristics": "Smaller, modular panels, typically rectangular or trapezoidal. They can have light or dark backgrounds and contain numerical data, alphanumeric identifiers, labels, and sometimes small progress indicators (e.g., circles, bars). Often feature a prominent number or code."
+      },
+      {
+        "name": "Option Selection Grid",
+        "characteristics": "A grid of squares or rectangles (e.g., for size selection). One option is visually highlighted with a distinct border, background color, or glow to indicate selection."
+      },
+      {
+        "name": "Model/Fit Information Panel",
+        "characteristics": "A rectangular panel providing details about the model (e.g., height, size worn) and a description of the product's fit (e.g., 'Oversized fit: exaggerated and spacious')."
+      },
+      {
+        "name": "Sustainability/Material Info Panel",
+        "characteristics": "A rectangular panel detailing material composition (e.g., 'made with at least 75% recycled polyester fibers'), often including a visual indicator or icon for process/status."
+      },
+      {
+        "name": "Footer/Metadata Section",
+        "characteristics": "Located at the bottom, containing smaller text for version numbers, AI model identifiers, or navigation elements (e.g., '01 02 03 04')."
+      },
+      {
+        "name": "Collection/Category Label",
+        "characteristics": "An oval or rounded rectangular shape with a glowing border, containing a category label like 'COLLECTION'."
+      }
+    ],
+    "visual_effects": {
+      "glows_and_reflections": "Extensive use of subtle white or neon green glows around key elements, text, and connecting lines, creating a futuristic and illuminated effect. Reflective surfaces are present on some UI elements, particularly buttons or toggles.",
+      "transparency_and_layering": "Semi-transparent or frosted glass-like overlays are used for many panels, allowing background elements to subtly show through and creating a sense of depth and layering.",
+      "geometric_overlays": "Sharp-edged geometric shapes (rectangles, trapezoids, polygons) are frequently used as frames, backgrounds, or decorative elements within panels, reinforcing the tech aesthetic.",
+      "grid_and_dot_patterns": "Subtle grid lines or dot patterns are incorporated within panels or as background textures to enhance the data-driven, technical feel.",
+      "shadows_and_depth": "Minimal use of soft, subtle shadows to create separation between layered elements without adding heavy visual weight."
+    },
+    "interaction_cues": "Highlighted elements (e.g., selected options, active data points) utilize accent colors (neon green) or glowing borders to clearly indicate interactivity, selection, or status."
+  }
+}
