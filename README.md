@@ -104,9 +104,9 @@ I believe in writing clean, well-documented, and maintainable code — and in us
 
 ## 📊 GitHub Stats & Activity
 
-![Godwin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=godwinboadi&show_icons=true&theme=tokyonight)
-![Godwin's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=godwinboadi&layout=compact&theme=tokyonight)
-![GitHub Streak](https://streak-stats.demolab.com?user=godwinboadi&theme=tokyonight&hide_border=true)
+![Godwin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AQUACY&show_icons=true&theme=tokyonight)
+![Godwin's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AQUACY&layout=compact&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=AQUACY&theme=tokyonight&hide_border=true)
 
 ---
 
